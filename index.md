@@ -1,7 +1,16 @@
-## Portfolio
+# Portfolio
 
 ---
+## Machine Learning Projects 
 
+### Newspaper Headline Analysis and NLP
+https://shields.io/category/build
+
+[Newspaper Headline Analysis and NLP](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+---
 ###  Data Analysis Projects 
 
 - [Medical Data Visualizer](http://example.com/)
@@ -19,13 +28,7 @@
 
 
 ---
-### Machine Learning Projects 
 
-[Newspaper Headline Analysis and NLP](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
----
 ### SQL Projects 
 
 - [Socioeconomic Indicators in Chicago](http://example.com/)
