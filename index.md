@@ -4,7 +4,7 @@
 ## Machine Learning Projects 
 
 ### Newspaper Headline Analysis and NLP
-[Newspaper Headline Analysis and NLP](/sample_page)
+[Newspaper Headline Analysis and NLP](https://github.com/ssilvacris/ssilva.github.io/blob/main/projects/newspaper_nlp-project.html)
 
 The coronavirus was first notified in Wuhan (China) on December 31, 2020 [covid timeline](https://www.who.int/news-room/detail/29-06-2020-covidtimeline). 
 The aim of the project is to see how long it took for the word COVID to gain relevance between January and July 2020. I collected the newspaper's headline data through the New York Times newspaper API.
