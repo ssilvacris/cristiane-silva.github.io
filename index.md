@@ -29,9 +29,9 @@ Skills used:
 
 - [Medical Data Visualizer](http://example.com/)
 - [Page View Time Series](https://github.com/ssilvacris/cristiane-silva.github.io/blob/main/projects/PV_Time_Series-project.html)
-- [Sea Level](https://ssilva.github.io/projects/Sea_level.html)
-- 
-https://ssilva.github.io/projects/Sea_level.html
+- [Sea Level](https://github.com/ssilvacris/ssilvacris.github.io/blob/main/html/Sea_level-project.html)
+
+
 
 - [Purchase Behaviour](http://example.com/)
 
