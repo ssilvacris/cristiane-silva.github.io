@@ -19,9 +19,9 @@ Skills used:
 <img src="images/nlp_fig1.png?raw=true"/>
 <img src="images/nlp_fig2.png?raw=true"/>
 
-<video width="320" height="240" controls>
-  <source src="images/Ranking_words.mp4?raw=true" type="video/mp4">
-</video>
+![Ranking of words](https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/Ranking_words.mp4?raw=true)
+
+
 
 
 
