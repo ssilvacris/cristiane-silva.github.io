@@ -32,7 +32,8 @@ Skills used:
 ---
 ### Data Visualization Projects 
 
-- [Indian Coal Mine Production](shorturl.at/ijHO7)
+- [Indian Coal Mine Production](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/IndianCoalMineProduction_16117464503940/Dashboard1?publish=yes7)
+ 
 - [ACME SUPERSTORE](shorturl.at/huFN3)
 - [Dual Layer Map](shorturl.at/czAEX)
 
