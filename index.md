@@ -4,10 +4,11 @@
 ## Machine Learning Projects 
 
 ### Newspaper Headline Analysis and NLP
-https://shields.io/category/build
+
 
 [Newspaper Headline Analysis and NLP](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nlp_fig1.png?raw=true"/>
+<img src="images/nlp_fig2.png?raw=true"/>
 
 
 ---
