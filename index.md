@@ -25,7 +25,7 @@ Skills used:
 
 
 ---
-###  Data Analysis Projects 
+##  Data Analysis Projects 
 
 - [Medical Data Visualizer](http://example.com/)
 - [Page View Time Series](https://github.com/ssilvacris/cristiane-silva.github.io/blob/main/projects/PV_Time_Series-project.html)
@@ -37,14 +37,19 @@ https://ssilva.github.io/projects/Sea_level.html
 
 
 ---
-### Data Visualization Projects 
+## Data Visualization Projects 
 
-- [Indian Coal Mine Production](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/IndianCoalMineProduction_16117464503940/Dashboard1?publish=yes7)
+### Indian Coal Mine Production
  
-- [ACME SUPERSTORE](shorturl.at/huFN3)
-- [Dual Layer Map](shorturl.at/czAEX)
+ <div class='tableauPlaceholder' id='viz1621464872770' style='position: relative'><noscript><a href='https:&#47;&#47;public.tableau.com&#47;profile&#47;cristiane.da.silva#!&#47;vizhome&#47;IndianCoalMineProduction_16117464503940&#47;Dashboard1?publish=yes'><img alt='INDIAN COAL MINE PRODUCTION(2019-2020) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IndianCoalMineProduction_16117464503940&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='IndianCoalMineProduction_16117464503940&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;IndianCoalMineProduction_16117464503940&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>               
+ 
+### ACME SUPERSTORE
 
+<div class='tableauPlaceholder' id='viz1621465139461' style='position: relative'><noscript><a href='https:&#47;&#47;public.tableau.com&#47;profile&#47;cristiane.da.silva#!&#47;vizhome&#47;Dashboard_Submission_week3&#47;ACMESUPERSTORE?publish=yes'><img alt='ACME SUPERSTORE ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3T&#47;3TCBJXQMP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;3TCBJXQMP' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;3T&#47;3TCBJXQMP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>               
 
+### Dual Layer Map
+
+<div class='tableauPlaceholder' id='viz1621465011481' style='position: relative'><noscript><a href='https:&#47;&#47;public.tableau.com&#47;profile&#47;cristiane.da.silva#!&#47;vizhome&#47;DualLayerMap_16103574007610&#47;DualLayerMap?publish=yes'><img alt='Dual Layer Map ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Du&#47;DualLayerMap_16103574007610&#47;DualLayerMap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DualLayerMap_16103574007610&#47;DualLayerMap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Du&#47;DualLayerMap_16103574007610&#47;DualLayerMap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>              
 ---
 
 ### SQL Projects 
