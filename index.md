@@ -23,7 +23,7 @@ Skills used:
   <source src="images/Ranking_words.mp4?raw=true" type="video/mp4">
 </video>
 
-Ranking_words.mp4
+
 
 ---
 ###  Data Analysis Projects 
