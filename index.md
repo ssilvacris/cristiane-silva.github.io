@@ -2,32 +2,33 @@
 
 ---
 
-### Category Name 1 
+###  Data Analysis Projects 
 
-[Project 1 Title](/sample_page)
+- [Medical Data Visualizer](http://example.com/)
+- [Page View Time Series](http://example.com/)
+- [Sea Level](http://example.com/)
+- [Purchase Behaviour](http://example.com/)
+
+
+---
+### Data Visualization Projects 
+
+- [Indian Coal Mine Production](shorturl.at/ijHO7)
+- [ACME SUPERSTORE](shorturl.at/huFN3)
+- [Dual Layer Map](shorturl.at/czAEX)
+
+
+---
+### Machine Learning Projects 
+
+[Newspaper Headline Analysis and NLP](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### SQL Projects 
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+- [Socioeconomic Indicators in Chicago](http://example.com/)
 
 
 ---
