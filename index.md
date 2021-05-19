@@ -4,7 +4,7 @@
 ## Machine Learning Projects 
 
 ### Newspaper Headline Analysis and NLP
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/ssilva.github.io/blob/main/projects/newspaper_nlp-project.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/Data-Science-Projects/blob/main/NLP_%20Headline_NYTimes/newspaper_nlp.ipynb)
 
 The coronavirus was first notified in Wuhan (China) on December 31, 2020 [covid timeline](https://www.who.int/news-room/detail/29-06-2020-covidtimeline). 
 The aim of the project is to see how long it took for the word COVID to gain relevance between January and July 2020. I collected the newspaper's headline data through the New York Times newspaper API.
@@ -19,6 +19,11 @@ Skills used:
 <img src="images/nlp_fig1.png?raw=true"/>
 <img src="images/nlp_fig2.png?raw=true"/>
 
+<video width="320" height="240" controls>
+  <source src="images/Ranking_words.mp4?raw=true" type="video/mp4">
+</video>
+
+Ranking_words.mp4
 
 ---
 ###  Data Analysis Projects 
