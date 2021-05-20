@@ -35,7 +35,7 @@ Skills used:
 
   <img src="images/ACME SUPERSTORE.png?raw=true"/>
   
-  images/Dual Layer Map.png
+  
 
 ### Dual Layer Map
  [![Open Tableau](https://img.shields.io/badge/Tableau-Open_Tableau-green?logo=Jupyter)](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/DualLayerMap_16103574007610/DualLayerMap)
