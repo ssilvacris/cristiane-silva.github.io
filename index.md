@@ -33,12 +33,13 @@ Skills used:
 ### ACME SUPERSTORE
 [![Open Tableau](https://img.shields.io/badge/Tableau-Open_Tableau-green?logo=Jupyter)](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/Dashboard_Submission_week3/ACMESUPERSTORE)
   <img src="images/Dual Layer Map.png?raw=true"/>
+  <img src="images/ACME SUPERSTORE.png?raw=true"/>
   
   images/Dual Layer Map.png
 
 ### Dual Layer Map
  [![Open Tableau](https://img.shields.io/badge/Tableau-Open_Tableau-green?logo=Jupyter)](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/DualLayerMap_16103574007610/DualLayerMap)
-<img src="images/ACME SUPERSTORE.png?raw=true"/>
+  <img src="images/Dual Layer Map.png?raw=true"/>
              
 ---
 
