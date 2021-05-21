@@ -46,5 +46,8 @@ Skills used:
 ### Python and Ipywidgets to visualize future value with different tax rate
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/Finance-Projects/blob/master/ipywidgets-fv.ipynb)
 
+Programming in python to show how to use Ipywidgets to visualize future value with different tax rates.
+<img src="images/ipywidget-fv.gif?raw=true"/>
+
 
 
