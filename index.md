@@ -42,4 +42,9 @@ Skills used:
   <img src="images/Dual Layer Map.png?raw=true"/>
              
 ---
+## Finance Projects 
+### Python and Ipywidgets to visualize future value with different tax rate
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/Finance-Projects/blob/master/ipywidgets-fv.ipynb)
+
+
 
