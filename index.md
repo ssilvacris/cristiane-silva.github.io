@@ -50,4 +50,9 @@ Programming in python to show how to use Ipywidgets to visualize future value wi
 <img src="images/ipywidget-fv.gif?raw=true"/>
 
 
+### Time Series - ARIMA
+[![Open Rmarkdown](https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2FR-Markdown.json)](https://nbviewer.jupyter.org/github/ssilvacris/Finance-Projects/blob/master/ARIMA/Time_Series.nb.html)
+
+The project, performed in R,  shows important statiscal characteristics of a financial time series and how to forecast stock price movements.
+<img src="images/Arima.png?raw=true"/>
 
