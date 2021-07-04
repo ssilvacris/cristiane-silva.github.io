@@ -19,6 +19,9 @@ Skills used:
 
 You can find [here](https://towardsdatascience.com/analysis-of-coffee-shops-in-montreal-neighbourhood-segmentation-and-clustering-4e4f020c30d7) a hands-on tutorial about this project. 
 
+<img src="images/kmeans_img.png?raw=true"/>
+
+
 ---
 ### Newspaper Headline Analysis and NLP
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/Data-Science-Projects/blob/main/NLP_%20Headline_NYTimes/newspaper_nlp.ipynb)
