@@ -3,6 +3,23 @@
 ---
 ## Machine Learning Projects 
 
+### The Battle of the Neighborhoods
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/Coursera_Capstone/blob/main/capstone_project_final/Notebook_coffee.ipynb)
+
+The objective of this project is analyse and explore an optimal location for a coffee shop.
+This is Capstone Project from IBM- Data Science where I got my Data Science professional certificate offered by Coursera.
+
+Skills used:
+* Python Coding
+* k-means clustering
+* Foursquare API
+* Webscrapping
+* Data Visualization - Folium
+
+You can find [here](https://towardsdatascience.com/analysis-of-coffee-shops-in-montreal-neighbourhood-segmentation-and-clustering-4e4f020c30d7) a hands-on tutorial about this project. 
+
+---
 ### Newspaper Headline Analysis and NLP
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ssilvacris/Data-Science-Projects/blob/main/NLP_%20Headline_NYTimes/newspaper_nlp.ipynb)
 
